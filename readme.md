@@ -1,1 +1,1 @@
-# intro repository in Github
+# intro repository in Githuby hg
